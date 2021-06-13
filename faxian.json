@@ -1,4 +1,6 @@
-[{
+{
+	"data": [
+		[{
 			"id": 97,
 			"appName": "Super mario ETH 2.0",
 			"appIco": "https://anypayimage.oss-cn-beijing.aliyuncs.com/appRecommend_2021-1-26_16-36-23.png",
@@ -921,3 +923,4 @@
 
 
 	]
+}
