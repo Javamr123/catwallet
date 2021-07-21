@@ -43,7 +43,7 @@
 		"type": 1
 	},{
 		"id": 102,
-		"appName": "heco浏览器",
+		"appName": "heco scan",
 		"appIco": "https://hecoinfo.com/images/ht_small.png?v=1.4",
 		"appLink": "https://hecoinfo.com/",
 		"status": 1,
@@ -57,7 +57,7 @@
 		"type": 8
 	},{
 		"id": 102,
-		"appName": "以太坊浏览器",
+		"appName": "Ether Scan",
 		"appIco": "https://cn.etherscan.com/images/ethereum-icon.png",
 		"appLink": "https://cn.etherscan.com/",
 		"status": 1,
