@@ -84,11 +84,22 @@
 				"hot": 1,
 				"chain": 2
 			}]
-		},{
+		},
+		{
 			"cat": [{
 				"id": 17,
 				"address": "0xa71edc38d189767582c38a3145b5873052c3e47a",
 				"symbol": "USDT",
+				"uccn": "-",
+				"remark": null,
+				"createTime": "2020-12-22 22:52:30",
+				"sort": "1",
+				"hot": 1,
+				"chain": 8
+			},{
+				"id": 18,
+				"address": "0x0C4C2b66A46C94Da95086A18649401f7c8AbDC71",
+				"symbol": "XYB",
 				"uccn": "-",
 				"remark": null,
 				"createTime": "2020-12-22 22:52:30",
