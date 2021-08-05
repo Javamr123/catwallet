@@ -9,6 +9,7 @@
 				"createTime": "2020-12-22 23:28:27",
 				"sort": "1",
 				"hot": 1,
+				"type": 1,   //1erc20, 2erc721
 				"chain": 1
 			}, {
 				"id": 18,
@@ -19,6 +20,7 @@
 				"createTime": "2020-12-22 23:29:48",
 				"sort": "2",
 				"hot": 1,
+				"type": 1,   //1erc20, 2erc721
 				"chain": 1
 			}, {
 				"id": 19,
@@ -29,6 +31,7 @@
 				"createTime": "2020-12-22 23:30:39",
 				"sort": "3",
 				"hot": 1,
+				"type": 1,   //1erc20, 2erc721
 				"chain": 1
 			}, {
 				"id": 20,
@@ -39,6 +42,7 @@
 				"createTime": "2020-12-22 23:31:38",
 				"sort": "4",
 				"hot": 1,
+				"type": 1,   //1erc20, 2erc721
 				"chain": 1
 			}]
 		},
@@ -52,7 +56,8 @@
 				"createTime": "2020-12-22 22:52:30",
 				"sort": "1",
 				"hot": 1,
-				"chain": 2
+				"type": 1,   //1erc20, 2erc721
+				"chain": 3
 			}, {
 				"id": 14,
 				"address": "TRkuKAxmWZ4G74MvZnFpoosQZsfvtNpmwH",
@@ -62,7 +67,8 @@
 				"createTime": "2020-12-22 22:53:03",
 				"sort": "2",
 				"hot": 1,
-				"chain": 2
+				"type": 1,   //1erc20, 2erc721
+				"chain": 3
 			}, {
 				"id": 15,
 				"address": "TKRrSDRjfmDKTKGgDmpevADQ9dGNqBRRxb",
@@ -72,7 +78,8 @@
 				"createTime": "2020-12-22 22:54:05",
 				"sort": "3",
 				"hot": 1,
-				"chain": 2
+				"type": 1,   //1erc20, 2erc721
+				"chain": 3
 			}, {
 				"id": 16,
 				"address": "TRkuKAxmWZ4G74MvZnFpoosQZsfvtNpmwH",
@@ -82,7 +89,8 @@
 				"createTime": "2020-12-22 22:55:52",
 				"sort": "4",
 				"hot": 1,
-				"chain": 2
+				"type": 1,   //1erc20, 2erc721
+				"chain": 3
 			}]
 		},
 		{
@@ -95,6 +103,7 @@
 				"createTime": "2020-12-22 22:52:30",
 				"sort": "1",
 				"hot": 1,
+				"type": 1,   //1erc20, 2erc721
 				"chain": 8
 			},{
 				"id": 18,
@@ -105,6 +114,18 @@
 				"createTime": "2020-12-22 22:52:30",
 				"sort": "1",
 				"hot": 1,
+				"type": 1,   //1erc20, 2erc721
+				"chain": 8
+			},{
+				"id": 18,
+				"address": "0x629F3D00c8eE4472eB9178390B5dFbEE57541888",
+				"symbol": "XFT",
+				"uccn": "-",
+				"remark": null,
+				"createTime": "2020-12-22 22:52:30",
+				"sort": "1",
+				"hot": 1,
+				"type": 2,   //1erc20, 2erc721
 				"chain": 8
 			}]
 		}
