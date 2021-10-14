@@ -130,24 +130,26 @@
 				"hot": 1,
 				"type": 2,   
 				"chain": 8
-			},{
-				"id": 18,
-				"address": "0x629F3D00c8eE4472eB9178390B5dFbEE57541888",
-				"symbol": "XFT",
-				"uccn": "-",
-				"remark": null,
-				"createTime": "2020-12-22 22:52:30",
-				"sort": "1",
-				"hot": 1,
-				"type": 3,   
-				"chain": 8
 			}]
 		},
 		{
 			"cat": []
 		},
 		{
-			"cat": []
+			"cat": [
+				{
+					"id": 17,
+					"address": "0xbe15d0897b9cbd7794d71e8c5396d2f2d3bd4dc4",
+					"symbol": "Loot",
+					"uccn": "-",
+					"remark": null,
+					"createTime": "2020-12-22 22:52:30",
+					"sort": "1",
+					"hot": 1,
+					"type": 2,   
+					"chain": 5 
+				}
+			]
 		},
 		{
 			"cat": []
