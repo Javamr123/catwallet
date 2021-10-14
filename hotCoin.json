@@ -60,7 +60,7 @@
 				"sort": "1",
 				"hot": 1,
 				"type": 1,   
-				"chain": 3
+				"chain": 2
 			}, {
 				"id": 14,
 				"address": "TRkuKAxmWZ4G74MvZnFpoosQZsfvtNpmwH",
@@ -71,7 +71,7 @@
 				"sort": "2",
 				"hot": 1,
 				"type": 1,   
-				"chain": 3
+				"chain": 2
 			}, {
 				"id": 15,
 				"address": "TKRrSDRjfmDKTKGgDmpevADQ9dGNqBRRxb",
@@ -82,7 +82,7 @@
 				"sort": "3",
 				"hot": 1,
 				"type": 1,   
-				"chain": 3
+				"chain": 2
 			}, {
 				"id": 16,
 				"address": "TRkuKAxmWZ4G74MvZnFpoosQZsfvtNpmwH",
@@ -93,7 +93,7 @@
 				"sort": "4",
 				"hot": 1,
 				"type": 1,   
-				"chain": 3
+				"chain": 2
 			}]
 		},
 		{
