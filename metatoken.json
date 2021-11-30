@@ -1,0 +1,30 @@
+{
+	"msg": "SUCCESS",
+	"data": [
+		{
+			"id": 1,
+			"version": 1,
+			"versionDesc": "1.0.0",
+			"download": "",
+			"updateInfo": "",
+			"type": 1,
+			"constraint": 0,
+			"createTime": "2020-12-25 03:37:33",
+			"status": 1,
+			"remark": ""
+		},
+		{
+			"id": 1,
+			"version": 1,
+			"versionDesc": "1.0.0",
+			"download": "",
+			"updateInfo": "",
+			"type": 2,
+			"constraint": 0,
+			"createTime": "2020-12-25 03:37:33",
+			"status": 1,
+			"remark": ""
+		}
+	],
+	"status": 0
+}
