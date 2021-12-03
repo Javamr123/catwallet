@@ -3,15 +3,15 @@
 	"data": [
 		{
 			"id": 1,
-			"version": 2,
-			"versionDesc": "1.0.1",
+			"version": 3,
+			"versionDesc": "1.0.3",
 			"download": "https://agreement.metatoken.run/metawallet.apk",
-			"updateInfo": "",
+			"updateInfo": "新增行情功能",
 			"type": 1,
 			"constraint": 0,
 			"createTime": "2020-12-25 03:37:33",
 			"status": 1,
-			"remark": ""
+			"remark": "新增行情功能"
 		},
 		{
 			"id": 1,
